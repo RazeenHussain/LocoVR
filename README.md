@@ -6,7 +6,7 @@ This repository contains the Unity project used to conduct a user study on the i
 ## 📥 Downloading the Project
 
 ```bash
-git clone https://github.com/RazeenHussain/LocoVR.git
+git clone https://github.com/RazeenHussain/LocoVR-Unity.git
 ```
 This project requires Git LFS.
 
